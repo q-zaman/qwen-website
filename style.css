@@ -25,6 +25,7 @@ body {
   color: var(--text);
   overflow-x: hidden;
   line-height: 1.6;
+  padding-top: 100px;
 }
 
 h1, h2, h3, h4, h5, h6 {
